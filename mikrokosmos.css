@@ -48,8 +48,8 @@ p{
 .box{
     background-color: #2E1F26;
     height: 200px;
-    border-top-left-radius: 50px;
-    border-top-right-radius: 50px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
     
     text-align: center;
     
