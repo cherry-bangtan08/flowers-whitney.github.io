@@ -38,6 +38,7 @@ p{
 .flowers{
 	align-items: center;
 	justify-content: center;
+	height: 200px;
 	display: grid;
 	 grid-template-columns: 1fr 1fr 1fr 1fr;
      grid-gap: 20px;
@@ -47,7 +48,7 @@ p{
 }
 .box{
     background-color: #2E1F26;
-    height: 800px;
+    height: 200px;
     border-top-left-radius: 100px;
     border-top-right-radius: 100px;
     
