@@ -34,15 +34,19 @@ p{
 	padding-top: 10px;
 		
 }
-
-.flowers{
+.card-wrapper {
+	display: flex;
+	flex-direction: column;
 	align-items: center;
+}
+	
+.flowers{
+	
 	justify-content: center;
-	height: 200px;
 	display: grid;
 	 grid-template-columns: 1fr 1fr 1fr 1fr;
-     grid-gap: 20px;
-		margin: 10px;
+          gap: 20px;
+	margin: 0 auto;
 	  padding: 0;
 	  
 }
