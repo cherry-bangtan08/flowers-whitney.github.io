@@ -57,7 +57,7 @@ p{
     width: 180px;
     border-radius: 40px;
     text-align: center;
-    
+    aspect-ratio: 3 / 4;
     margin-bottom: auto;
     padding-left: 10px;
     padding-right: 10px;
