@@ -17,8 +17,11 @@ h1{
 	font-family: "amster",serif;
 	font-weight: 700;
 	font-style: normal;
-	font-size: 100px;
-	color: #ffffff;
+	
+	
+}
+.title{ color: #ffffff;
+       font-size: 100px;
 }
 h3{
 	font-family: "txc-pearl", serif;
