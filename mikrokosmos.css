@@ -11,12 +11,14 @@ header{
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	background-color: #2e1f26;
 }
 h1{
 	font-family: "amster",serif;
 	font-weight: 700;
 	font-style: normal;
 	font-size: 100px;
+	color: #ffffff;
 }
 h3{
 	font-family: "txc-pearl", serif;
