@@ -20,6 +20,20 @@ h1{
 	
 	
 }
+.herosection{
+background-image: url(herosection.png);
+	background-size: cover;
+	background-position: center;
+	z-index:0;}
+
+.herosection::before{
+background-color: #2e1f26;
+	inset:0;
+	position: absolute;
+	z-index:1;
+
+}
+
 .title{ color: #ecf5e6;
        text-align: center;
 }
