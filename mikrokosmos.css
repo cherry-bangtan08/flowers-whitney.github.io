@@ -20,13 +20,13 @@ h1{
 	
 	
 }
-.herosection{
+#herosection{
 background-image: url(herosection.png);
 	background-size: cover;
 	background-position: center;
 	z-index:0;}
 
-.herosection::before{
+#herosection::before{
 background-color: #2e1f26;
 	inset:0;
 	position: absolute;
