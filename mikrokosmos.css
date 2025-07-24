@@ -43,6 +43,7 @@ content: "";
 	inset:0;
 	position: absolute;
 	z-index: 2;
+	display: none;
 }
 
 .title{ color: #ecf5e6;
