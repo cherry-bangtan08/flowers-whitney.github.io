@@ -3,6 +3,23 @@ body{
 	margin: 0;
 	padding: 0;
 }
+.navbar{
+	background-color: #2e1f26;
+	color: #ecf5e6;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 20px;
+	position: relative;
+	z-index: 4;
+}
+li{
+	display:inline;
+}
+li:hover{
+	color: #3d4a8c;
+	cursor: pointer;
+}
 header{
 	margin:0;
 	padding:0;
