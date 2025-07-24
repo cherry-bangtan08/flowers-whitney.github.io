@@ -36,7 +36,7 @@ h1{
 #herosection::before{
 background-color: #2e1f26;
 content: "";
-	opacity: 0.3; /* Adjust this value for transparency */
+	opacity: 0.5; /* Adjust this value for transparency */
 	/* This is the important part */
 	width: 100%;
 	height: 100%;
