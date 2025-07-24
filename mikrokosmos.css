@@ -14,7 +14,7 @@ header{
 	flex-direction: column;
 	background-color: #2e1f26;
 	position:relative;
-	z-index: 2;
+	z-index: 3;
 }
 h1{
 	font-family: "amster",serif;
@@ -30,6 +30,7 @@ h1{
 	background-size: cover;
 	background-position: center;
 	position:relative;
+	z-index: 1;
 	}
 
 #herosection::before{
@@ -41,8 +42,7 @@ content: "";
 	height: 100%;
 	inset:0;
 	position: absolute;
-	z-index:1;
-
+	z-index: 2;
 }
 
 .title{ color: #ecf5e6;
