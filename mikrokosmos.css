@@ -13,6 +13,8 @@ header{
 	align-items: center;
 	flex-direction: column;
 	background-color: #2e1f26;
+	position:relative;
+	z-index: 2;
 }
 h1{
 	font-family: "amster",serif;
@@ -23,7 +25,7 @@ h1{
 	
 }
 #herosection{
-background-image: url('https://raw.githubusercontent.com/flowers-whitney/flowers-whitney.github.io/main/images/hero-image.jpg');
+background-image: url('docs/assets/blue flowers.jpg');
 	background-size: cover;
 	background-position: center;
 	position:relative;
