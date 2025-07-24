@@ -18,6 +18,7 @@ h1{
 	font-family: "amster",serif;
 	font-weight: 700;
 	font-style: normal;
+	z-index: 3;
 	
 	
 }
@@ -26,7 +27,7 @@ background-image: url('https://raw.githubusercontent.com/flowers-whitney/flowers
 	background-size: cover;
 	background-position: center;
 	position:relative;
-	z-index:0;}
+	}
 
 #herosection::before{
 background-color: #2e1f26;
@@ -47,11 +48,15 @@ content: "";
 #set1{ font-family: "txc-pearl", serif;
       font-size: 24px;
      margin-bottom: 1rem;
+	 position:relative;
+	 z-index:0;
 }
 #set2{ font-family: "amster", serif;
       font-size: 18px;
       font-style: italic;
       color: #ecf5e6;
+	  position: relative;
+	  z-index:0;
 }
 h3{
 	font-family: "txc-pearl", serif;
