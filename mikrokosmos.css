@@ -92,6 +92,11 @@ content: "";
 h3{
 	font-family: "txc-pearl", serif;
 }
+h4{
+	font-family: "amster", serif;
+	font-weight: normal;
+
+}
 p{
 	font-family: "amster", serif;
 	font-weight: normal;
