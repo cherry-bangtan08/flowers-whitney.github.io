@@ -120,7 +120,7 @@ p{
 		.logo img{
 			height:30px;
 			width:auto;
-			scale: 0.6;
+			scale: 0.8;
 			/* This is the important part */
 			object-fit: cover;
 		}
