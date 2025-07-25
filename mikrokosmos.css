@@ -11,6 +11,9 @@ body{
 	height: 20px;
 	position: relative;
 	z-index: 10;
+	justify-content: center;
+	align-items: center;
+	font-family: "txc-pearl", serif;
 }
 ul{
 	list-style: none;
@@ -18,6 +21,7 @@ ul{
 	padding: 0;
 	display: flex;
 	overflow: hidden;
+	/* why r u so deadset on centering stuff */
 }
 li{
 	display:inline;
