@@ -120,9 +120,9 @@ p{
 		.logo img{
 			height: 40px;
 			width:40px;
-			scale: 0.6;
+			
 			/* This is the important part */
-			object-fit: cover;
+			object-fit: contain;
 		}
 		.logo span{
 			font-family: "amster", serif;
