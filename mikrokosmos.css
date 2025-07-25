@@ -118,8 +118,8 @@ p{
 	gap: 10px;
 		}
 		.logo img{
-			max-width: 100%;
-			height: auto;
+			height: 40px;
+			width: 40px;
 			
 			/* This is the important part */
 			object-fit: contain;
