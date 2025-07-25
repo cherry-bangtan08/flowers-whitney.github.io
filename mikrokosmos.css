@@ -18,9 +18,11 @@ nav{
 .navlist{
 	display: flex;
 	list-style: none;
-	gap: 40px;
+	gap: 20px;
 	margin: 0;
 	padding: 0;
+	/* This gap is too much, also make the image smaller + replace it with the logo svg when
+	you come back from lunch */
 }
 .navbar{
 	background-color: #2e1f26;
