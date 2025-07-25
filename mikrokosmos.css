@@ -94,7 +94,7 @@ content: "";
 h3{
 	font-family: "txc-pearl", serif;
 }
-h4{
+h4.navbar{
 	font-family: "amster", serif;
 	font-weight: 700;
 	background-color:#2E1F26;
