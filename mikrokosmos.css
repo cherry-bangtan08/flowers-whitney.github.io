@@ -13,18 +13,25 @@ nav{
 	z-index: 10;
 	justify-content: space-between;
 	align-items: center;
-	display: inline;
+	
+}
+.navlist{
+	display: flex;
+	list-style: none;
+	gap: 40px;
+	margin: 0;
+	padding: 0;
 }
 .navbar{
 	background-color: #2e1f26;
 	color: #ecf5e6;
 	display: flex;
-	height: 20px;
+	height: auto;
 	position: relative;
 	z-index: 10;
 	justify-content: space-between;
 	align-items: center;
-	display: inline;
+	padding: 15px 40px;
 	
 }
 ul{
@@ -105,12 +112,7 @@ content: "";
 h3{
 	font-family: "txc-pearl", serif;
 }
-h4.navbar{
-	font-family: "amster", serif;
-	font-weight: 700;
-	background-color:#2E1F26;
-    color:#ecf5e6;
-}
+
 p{
 	font-family: "amster", serif;
 	font-weight: normal;
@@ -118,12 +120,22 @@ p{
 }
 
 .logo{
-    height: 65px;
-    width: 60px;
-	padding-left: 10px;
-	padding-top: 10px;
-		
-}
+    display:flex;
+	align-self: center;
+	gap: 10px;
+		}
+		.logo img{
+			width: 50px;
+			height: 50px;
+			border-radius: 50%;
+			/* This is the important part */
+			object-fit: cover;
+		}
+		.logo span{
+			font-family: "amster", serif;
+		font-weight: 700;
+		font-size: 1.4rem
+		}
 .card-wrapper {
 	display: flex;
 	flex-direction: column;
