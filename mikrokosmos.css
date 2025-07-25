@@ -13,7 +13,8 @@ body{
 	z-index: 10;
 	justify-content: space-between;
 	align-items: center;
-	font-family: "txc-pearl", serif;
+	display: inline;
+	
 }
 ul{
 	list-style: none;
@@ -25,6 +26,7 @@ ul{
 }
 li{
 	display:inline;
+	font-family: "txc-pearl", serif;
 }
 li:hover{
 	color: #3d4a8c;
