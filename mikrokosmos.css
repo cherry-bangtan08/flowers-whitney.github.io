@@ -118,8 +118,8 @@ p{
 	gap: 10px;
 		}
 		.logo img{
-			height: 30px;
-			width:30px;
+			height: 40px;
+			width:40px;
 			scale: 0.6;
 			/* This is the important part */
 			object-fit: cover;
