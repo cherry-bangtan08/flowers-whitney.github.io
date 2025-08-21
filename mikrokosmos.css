@@ -150,6 +150,9 @@ p{
  --widthidk: 300px;
  --green: #82997d;
 }
+.cards{
+	background-color: var(--green);
+}
 .box{
     background-color: #2E1F26;
    	width: var(--widthidk);
