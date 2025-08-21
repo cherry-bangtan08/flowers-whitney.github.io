@@ -163,7 +163,7 @@ p{
     background-color: #2E1F26;
    	width: var(--widthidk);
     border-radius: 100px 100px 30px 30px;
-	border: 10px var(--notwhite) solid;
+	border: 4px var(--notwhite) solid;
 	text-align: center;
     aspect-ratio: 3 / 4;
     margin-bottom: auto;
@@ -172,6 +172,9 @@ p{
   justify-content: center;
   align-items: center;
 	
+}
+.box:hover{
+	box-shadow: 0 4px 8px 0 var(--notwhite);
 }
 .boquets{
 	/* The important parts are the object-fit and I guess the height and width*/
