@@ -180,6 +180,7 @@ p{
 	background-color: var(--green);
 	border-color: var(--notwhite)
 	border-radius: 60px 60px 30px 30px;
+	border-width: 4px;
 	height: 100%;
 	width: 100%;
 	align-content: center;
