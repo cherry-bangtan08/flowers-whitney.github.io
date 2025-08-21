@@ -150,6 +150,7 @@ p{
  --widthidk: 300px;
  --green: #82997d;
  --notblack: #2e1f26;
+ --notwhite: #ecf5e6;
 }
 .cards{
 	background-color: var(--green);
@@ -182,4 +183,5 @@ p{
 .testimony{
 	background-color: var(--notblack);
 	width: 100%;
+	color: var(--notwhite)
 }
