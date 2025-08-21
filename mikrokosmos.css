@@ -106,6 +106,7 @@ content: "";
 h3{
 	font-family: "txc-pearl", serif;
 	color: var(--notwhite);
+	font-size: 1.4rem;
 }
 
 p{
