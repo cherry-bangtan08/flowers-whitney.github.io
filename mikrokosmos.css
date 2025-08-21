@@ -136,7 +136,7 @@ p{
 }
 	
 .flowers{
-	background-color: #82997d;
+	background-color: var(--green);
 	justify-content: center;
 	display: grid;
 	 grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -148,6 +148,7 @@ p{
 }
 :root{
  --widthidk: 300px;
+ --green: #82997d;
 }
 .box{
     background-color: #2E1F26;
@@ -165,6 +166,7 @@ p{
 .boquets{
 	/* The important parts are the object-fit and I guess the height and width*/
 	object-fit: cover;
+	background-color: var(--green);
 	border-radius: 60px 60px 30px 30px;
 	height: 100%;
 	width: 100%;
