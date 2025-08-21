@@ -149,14 +149,12 @@ p{
 .box{
     background-color: #2E1F26;
     height: 250px;
-    width: 180px;
+    width: 200px;
     border-radius: 60px 60px 0px 0px;
     text-align: center;
     aspect-ratio: 3 / 4;
     margin-bottom: auto;
-    padding-left: 10px;
-    padding-right: 10px;
-	overflow: hidden;
+   overflow: hidden;
 	 display: flex;
   justify-content: center;
   align-items: center;
