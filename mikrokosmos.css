@@ -2,6 +2,7 @@
 body{
 	margin: 0;
 	padding: 0;
+	background-color: var(--green);
 }
 .navbar{
 	background-color: #2e1f26;
@@ -148,6 +149,7 @@ p{
 :root{
  --widthidk: 300px;
  --green: #82997d;
+ --notblack: #2e1f26;
 }
 .cards{
 	background-color: var(--green);
@@ -175,4 +177,9 @@ p{
 	height: 100%;
 	width: 100%;
 	align-content: center;
+}
+
+.testimony{
+	background-color: var(--notblack);
+	width: 100%;
 }
