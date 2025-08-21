@@ -151,7 +151,7 @@ p{
 }
 .box{
     background-color: #2E1F26;
-   	width: var(--widthidk)
+   	width: var(--widthidk);
     border-radius: 60px 60px 30px 30px;
     text-align: center;
     aspect-ratio: 3 / 4;
