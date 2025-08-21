@@ -136,7 +136,7 @@ p{
 }
 	
 .flowers{
-	
+	background-color: #82997d;
 	justify-content: center;
 	display: grid;
 	 grid-template-columns: 1fr 1fr 1fr 1fr;
