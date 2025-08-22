@@ -205,3 +205,9 @@ p{
    align-content: center;
    float: left;
 }
+
+article{
+	display:block;
+	text-align: justify;
+	float: right;
+}
