@@ -210,6 +210,6 @@ article{
 	display:block;
 	text-align: justify;
 	float: right;
-	border-right: 20px;
+	border-right: 40px;
 	border-color: var(--notblack);
 }
