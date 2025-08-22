@@ -200,5 +200,7 @@ p{
 	aspect-ratio: 3 / 4;
     margin-bottom: auto;
    overflow: hidden;
+   padding-left: 30px;
+   padding-right: 10px;
    float: left;
 }
