@@ -208,7 +208,7 @@ p{
 
 article{
 	display:block;
-	text-align: justify;
+	text-align: center;
 	float: right;
 	border-right: 40px;
 	border-color: var(--notblack);
