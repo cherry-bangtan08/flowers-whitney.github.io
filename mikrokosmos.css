@@ -192,6 +192,9 @@ p{
 	color: var(--notwhite);
 	padding-top: 20px;
 	float: right;
+	display:flex;
+	flex-direction:row;
+	justify-content: space-evenly;
 }
 .baddie{
 	background-color: #2E1F26;
@@ -203,11 +206,15 @@ p{
    padding-left: 30px;
    padding-right: 20px;
    align-content: center;
-   float: left;
+   flex: 0 0 1;
+   width: 30%;
+   order: 1;
 }
 
 article{
 	display:block;
 	text-align: right;
-	float: right;
+	flex: 0 0 1;
+	width: 60%;
+   order: 2;
 }
