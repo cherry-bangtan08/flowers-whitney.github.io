@@ -189,5 +189,6 @@ p{
 .testimony{
 	background-color: var(--notblack);
 	width: 100%;
-	color: var(--notwhite)
+	color: var(--notwhite);
+	padding-top: 10px;
 }
