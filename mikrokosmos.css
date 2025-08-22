@@ -174,7 +174,7 @@ p{
 	
 }
 .box:hover{
-	box-shadow: 0 4px 8px 0 var(--notwhite);
+	box-shadow: 0 8px 16px 0 var(--notwhite);
 }
 .boquets{
 	/* The important parts are the object-fit and I guess the height and width*/
