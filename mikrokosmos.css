@@ -202,5 +202,6 @@ p{
    overflow: hidden;
    padding-left: 30px;
    padding-right: 10px;
+   align-content: center;
    float: left;
 }
