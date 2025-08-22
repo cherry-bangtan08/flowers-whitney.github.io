@@ -219,3 +219,20 @@ article{
 	width: 60%;
    order: 2;
 }
+
+#top-image, #bottom {
+  position: relative;
+  top:0;
+  left:0;
+  width: 100%;
+  height: 100%;
+}
+
+.stack{
+	position:relative;
+	width:400px;
+	height:auto;
+
+}
+
+
