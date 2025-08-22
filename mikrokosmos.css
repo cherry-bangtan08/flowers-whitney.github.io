@@ -191,4 +191,5 @@ p{
 	width: 100%;
 	color: var(--notwhite);
 	padding-top: 20px;
+	float: right;
 }
