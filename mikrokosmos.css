@@ -196,7 +196,7 @@ p{
 .baddie{
 	background-color: #2E1F26;
    	width: 400px;
-    border-radius: 100px 100px 100px 100px;
+    border-radius: 50% / 30%
 	aspect-ratio: 3 / 4;
     margin-bottom: auto;
    overflow: hidden;
