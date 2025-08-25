@@ -221,9 +221,9 @@ p{
 .ontop{
 	width: 400px;
     margin-bottom: auto;
-   padding-left: 60px;
+   padding-left: 90px;
    padding-top: 40px;
-   padding-bottom: 20px;
+   padding-bottom: 50px;
    padding-right: 20px;
    align-content: center;
    width: 60%;
@@ -234,7 +234,7 @@ p{
 .under{
 	width: 400px;
     margin-bottom: auto;
-   padding-left: 60px;
+   padding-left: 90px;
    padding-top: 40px;
    padding-bottom: 20px;
    padding-right: 20px;
