@@ -212,6 +212,7 @@ p{
    padding-top: 20px;
    padding-bottom: 20px;
    padding-right: 20px;
+   justify-self: center;
    align-content: center;
    width: 50%;
    grid-column: 1;
@@ -221,7 +222,9 @@ p{
 }
 .ontop{
 	position: absolute;
-	left: 80px;
+	top:0px;
+	right:50%;
+	bottom: 90px;
   grid-column: 1;
    grid-row: 1;
    z-index: 3;
