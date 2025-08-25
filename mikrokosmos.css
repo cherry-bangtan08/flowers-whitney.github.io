@@ -215,9 +215,22 @@ p{
    width: 50%;
    grid-column: 1;
    grid-row: 1;
+   z-index:1;
    
 }
-
+.ontop{
+	width: 400px;
+    margin-bottom: auto;
+   padding-left: 60px;
+   padding-top: 40px;
+   padding-bottom: 20px;
+   padding-right: 20px;
+   align-content: center;
+   width: 60%;
+   grid-column: 1;
+   grid-row: 1;
+   z-index: 2;
+}
 article{
 	padding-right: 20px;
 	grid-column: 2;
