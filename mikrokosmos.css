@@ -193,6 +193,7 @@ p{
 	color: var(--notwhite);
 	padding-top: 20px;
 	grid-column: 2;
+	grid-row: 1;
 	justify-content: space-evenly;
 	justify-self: center;
 }
@@ -208,7 +209,8 @@ p{
    align-content: center;
    width: 30%;
    grid-column: 1;
-  
+   grid-row: 1;
+
 }
 
 article{
