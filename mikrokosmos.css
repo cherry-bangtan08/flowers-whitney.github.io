@@ -207,6 +207,7 @@ p{
 	aspect-ratio: 3 / 4;
     margin-bottom: auto;
    overflow: hidden;
+   position:relative;
    padding-left: 80px;
    padding-top: 20px;
    padding-bottom: 20px;
@@ -221,13 +222,11 @@ p{
 .ontop{
 	width: 400px;
     margin-bottom: auto;
-   padding-left: 90px;
-   padding-top: 40px;
-   padding-bottom: 60px;
-   padding-right: 20px;
-   align-content: center;
+   position:absolute;
+   top: 30px;
+   right: 80px; 
    width: 60%;
-   grid-column: 1;
+  grid-column: 1;
    grid-row: 1;
    z-index: 3;
 }
