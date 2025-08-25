@@ -203,6 +203,16 @@ p{
 .baddie{
 	background-color: #2E1F26;
    	width: 400px;
+    overflow: hidden;
+   position:relative;
+   grid-column: 1;
+   grid-row: 1;
+   padding: 20px 20px 20px 20px;
+
+}
+.badd{
+	background-color: #2E1F26;
+   	width: 400px;
     border-radius: 50%;
 	aspect-ratio: 3 / 4;
     margin-bottom: auto;
@@ -219,7 +229,7 @@ p{
    z-index:2;
    
 }
-.ontop{
+.ontop, #ontop{
 	position: absolute;
 	left: 80px;
   grid-column: 1;
