@@ -221,7 +221,7 @@ p{
 }
 .ontop{
 	position: absolute;
-	bottom: 80px;
+	top: 100px;
 	left: 80px;
   grid-column: 1;
    grid-row: 1;
