@@ -192,10 +192,9 @@ p{
 	width: 100%;
 	color: var(--notwhite);
 	padding-top: 20px;
-	float: right;
-	display:flex;
-	flex-direction:row;
+	grid-column: 2;
 	justify-content: space-evenly;
+	justify-self: center;
 }
 .baddie{
 	background-color: #2E1F26;
@@ -207,16 +206,16 @@ p{
    padding-left: 30px;
    padding-right: 20px;
    align-content: center;
-   flex: 0 0 1;
    width: 30%;
-   order: 1;
+   grid-column: 1;
+  
 }
 
 article{
-	display:block;
-	text-align: right;
-	flex: 0 0 1;
-	width: 60%;
-   order: 2;
+	display:grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 10px;
+	grid-template-rows: auto;
+	position: relative;
 }
 
