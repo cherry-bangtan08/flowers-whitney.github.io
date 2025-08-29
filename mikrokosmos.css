@@ -238,7 +238,8 @@ p{
 }
 .under{
 	position: absolute;
-    margin-right: 30px;
+   right: -80%;
+   top: 50%;
 	grid-column: 1;
    grid-row: 1;
 	z-index: 1;
