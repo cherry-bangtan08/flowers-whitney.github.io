@@ -200,6 +200,13 @@ p{
 	justify-content: space-evenly;
 	justify-self: center;
 }
+.image holder{
+	position: relative;
+	justify-self: center;
+	width:50%;
+	grid-column:1;
+	grid-row:1;
+}
 .baddie{
 	background-color: #2E1F26;
    	width: 400px;
@@ -229,17 +236,12 @@ p{
    z-index: 3;
 }
 .under{
-	width: 400px;
-    margin-bottom: auto;
-   padding-left: 90px;
-   padding-top: 40px;
-   padding-bottom: 20px;
-   padding-right: 20px;
-   align-content: center;
-   width: 60%;
-   grid-column: 1;
+	position: absolute;
+	top: -20%;
+	right:50%;
+	grid-column: 1;
    grid-row: 1;
-   z-index: 1;
+	z-index: 1;
 }
 article{
 	padding-right: 20px;
