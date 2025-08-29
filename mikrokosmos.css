@@ -207,7 +207,7 @@ p{
 	grid-column:1;
 	grid-row:1;
 }
-.baddie{
+.baddie, .baddie img{
 	background-color: #2E1F26;
    	width: 400px;
     border-radius: 50%;
