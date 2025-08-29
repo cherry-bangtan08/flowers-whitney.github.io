@@ -233,7 +233,7 @@ p{
 }
 .under{
 	position: absolute;
-   right: -70%;
+   right: -50%;
    bottom: -20%;
 	grid-column: 1;
    grid-row: 1;
