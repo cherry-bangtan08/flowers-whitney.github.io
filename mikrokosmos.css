@@ -242,6 +242,9 @@ p{
 	z-index: 1;
 }
 article{
+	font-family: "amster", serif;
+	font-weight:300;
+	font-style: italic;
 	padding-right: 20px;
 	margin-right: 20px;
 	grid-column: 2;
