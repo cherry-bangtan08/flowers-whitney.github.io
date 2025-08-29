@@ -234,8 +234,8 @@ p{
 }
 .under{
 	position: absolute;
-   right: -80%;
-   top: 50%;
+   right: -70%;
+   bottom: -20%;
 	grid-column: 1;
    grid-row: 1;
 	z-index: 1;
