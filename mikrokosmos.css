@@ -211,7 +211,7 @@ p{
 	background-color: #2E1F26;
    	border-radius: 50%;
 	border-color:var(--notwhite);
-	border-width: 0px;
+	border-width: 1px;
 	aspect-ratio: 3 / 4;
     margin-bottom: auto;
    overflow: hidden;
