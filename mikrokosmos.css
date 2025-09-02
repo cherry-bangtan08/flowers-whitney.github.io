@@ -260,3 +260,6 @@ article p{
 .socials{
 	background-color: var(--green);
 }
+#socialtitle{
+	justify-content:center;
+}
