@@ -212,14 +212,15 @@ p{
 .baddie{
 	background-color: #2E1F26;
    	border-radius: 50%;
+	 border-radius: 100px 100px 30px 30px;
+	border: 4px var(--notwhite) solid;
 	aspect-ratio: 3 / 4;
     margin-bottom: auto;
    overflow: hidden;
    position:relative;
    left:20px;
   padding-top: 40px;
-
-   width: 400px;
+	width: 400px;
    grid-column: 1;
    grid-row: 1;
    z-index:2;
