@@ -261,5 +261,7 @@ article p{
 	background-color: var(--green);
 }
 #socialtitle{
+	display:flex;
+	align-items: center;
 	justify-content:center;
 }
