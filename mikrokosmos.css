@@ -242,9 +242,10 @@ p{
    grid-row: 1;
 	z-index: 1;
 }
-article{
+article p{
 	font-family: "amster", serif;
-	font-weight:300;
+	font-weight:200;
+	font-size:18px;
 	font-style: italic;
 	padding-right: 20px;
 	margin-right: 20px;
