@@ -273,16 +273,19 @@ article p{
 .card1{
   display: flex;
   order:1;
-  flex-shrink: 0.2;
+  width:80px;
+  height:auto;
 }
 .card2{
   display: flex;
   order:2;
-  flex-shrink: 0.3;
+  width:80px;
+  height:auto;
 }
 
 .card3{
   display: flex;
   order:3;
-  flex: shrink 0.3;
+  width:80px;
+  height:auto;
 }
