@@ -259,6 +259,9 @@ article p{
 
 .socials{
 	background-color: var(--green);
+	
+}
+.cards{
 	display:flex;
 	flex-direction: row;
 	justify-content: center;
