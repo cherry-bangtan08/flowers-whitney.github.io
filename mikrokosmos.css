@@ -262,6 +262,7 @@ article p{
 	display:flex;
 	flex-direction: row;
 	justify-content: center;
+	flex-wrap: nowrap;
 }
 #socialtitle{
 	display:flex;
