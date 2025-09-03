@@ -273,17 +273,16 @@ article p{
 .card1{
   display: flex;
   order:1;
-  flex: shrink 0.5;
+  flex-shrink: 0.2;
 }
 .card2{
   display: flex;
-
-order:2;
-  flex-shrink:0.7;
+  order:2;
+  flex-shrink: 0.3;
 }
 
 .card3{
   display: flex;
   order:3;
-  flex-shrink:0.7;
+  flex: shrink 0.3;
 }
