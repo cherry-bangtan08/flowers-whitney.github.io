@@ -272,20 +272,18 @@ article p{
 
 .card1{
   display: flex;
-  justify-content: center;
-  align-items: center;
   order:1;
+  flex-shrink:0.7;
 }
 .card2{
   display: flex;
-  justify-content: center;
-  align-items: center;
-  order:2;
+
+order:2;
+  flex-shrink:0.7;
 }
 
 .card3{
   display: flex;
-  justify-content: center;
-  align-items: center;
   order:3;
+  flex-shrink:0.7;
 }
