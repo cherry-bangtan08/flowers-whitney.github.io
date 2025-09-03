@@ -273,7 +273,7 @@ article p{
 .card1{
   display: flex;
   order:1;
-  flex-shrink:0.7;
+  flex: shrink 0.5;
 }
 .card2{
   display: flex;
