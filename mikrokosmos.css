@@ -261,7 +261,7 @@ article p{
 	background-color: var(--green);
 	
 }
-.cards{
+.socials .cards{
 	display:flex;
 	flex-direction: row;
 	justify-content: center;
