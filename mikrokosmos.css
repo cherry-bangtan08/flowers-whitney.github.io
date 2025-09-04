@@ -261,8 +261,8 @@ article p{
 	background-color: var(--green);
 	
 }
-.socials .cards{
-	display:flex;
+.socials .cards {
+	display: flex;
 	flex-direction: row;
 	justify-content: center;
 	flex-wrap: nowrap;
