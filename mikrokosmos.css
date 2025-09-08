@@ -281,14 +281,14 @@ article p{
   width: 500px;
   height:auto;
 }
-.card2{
+.card2 img{
   display: flex;
   order:2;
   width:500px;
   height:auto;
 }
 
-.card3{
+.card3 img{
   display: flex;
   order:3;
   width:500px;
