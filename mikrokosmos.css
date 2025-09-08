@@ -265,6 +265,7 @@ article p{
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
+	align-items: center;
 	flex-wrap: nowrap;
 }
 #socialtitle{
@@ -272,7 +273,11 @@ article p{
 	align-items: center;
 	justify-content:center;
 }
-
+.cards img{
+	display: block;
+	width:80px;
+	height:auto;
+}
 .card1{
   display: flex;
   order:1;
