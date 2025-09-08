@@ -265,9 +265,10 @@ article p{
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
+	align-items: center;
 	flex-wrap: nowrap;
-	gap: 32px; /* ensures visible space between social images */
-
+	gap:35px;
+	justify-content: space-between;
 }
 #socialtitle{
 	display:flex;
