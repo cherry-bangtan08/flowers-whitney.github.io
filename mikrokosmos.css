@@ -267,7 +267,6 @@ article p{
 	justify-content: center;
 	align-items: center;
 	flex-wrap: nowrap;
-	gap:15px;
 	justify-content: space-between;
 }
 #socialtitle{
