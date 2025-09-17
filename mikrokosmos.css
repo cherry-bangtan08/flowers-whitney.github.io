@@ -267,7 +267,7 @@ article p{
 	justify-content: center;
 	align-items: center;
 	flex-wrap: nowrap;
-	gap:35px;
+	gap:15px;
 	justify-content: space-between;
 }
 #socialtitle{
@@ -282,6 +282,7 @@ article p{
   order:1;
   width: 500px;
   height:auto;
+  transform:scale(.95);
 }
 .card2 img{
   display: flex;
@@ -295,4 +296,5 @@ article p{
   order:3;
   width:500px;
   height:auto;
+  transform:scale(.95);
 }
