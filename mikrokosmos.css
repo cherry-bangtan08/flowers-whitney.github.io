@@ -316,6 +316,9 @@ article p{
 	flex-grow:3;
 	
 }
+#contacts img{
+	transform: scale(0.5);
+}
 /*
 saving this for now but i think im gonna try and flexbox this!
 footer{
