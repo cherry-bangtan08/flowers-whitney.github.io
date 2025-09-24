@@ -307,6 +307,7 @@ footer{
 }
 
 footer h3{
+	background-color: var(--notblue);
 	font-family: "txc-pearl", serif;
 	color: var(--lightblue);
 	font-size: 1.5rem;
