@@ -299,7 +299,13 @@ article p{
   height:auto;
   transform:scale(.95);
 }
-
+.footercontent{
+	display:flex;
+	flex-direction: row;
+    
+}
+/*
+saving this for now but i think im gonna try and flexbox this!
 footer{
 	background-color: var(--notblue);
 	color: var(--nothwhite);
@@ -316,3 +322,4 @@ footer h3{
 	padding-top: 10px;
 	margin: 0;
 }
+	*/
