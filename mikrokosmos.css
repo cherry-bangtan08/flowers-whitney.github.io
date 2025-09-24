@@ -155,6 +155,7 @@ p{
  --notblack: #2e1f26;
  --notwhite: #ecf5e6;
  --notblue: #3d4b8d;
+ --lightblue: #b0bde0;
 }
 .cards{
 	background-color: var(--green);
@@ -297,4 +298,20 @@ article p{
   width:500px;
   height:auto;
   transform:scale(.95);
+}
+
+footer{
+	background-color: var(--notblue);
+	color: var(--nothwhite);
+	
+}
+
+footer h3{
+	font-family: "txc-pearl", serif;
+	color: var(--lightblue);
+	font-size: 1.5rem;
+	text-align: center;
+	float: left;
+	padding-top: 10px;
+	margin: 0;
 }
