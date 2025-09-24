@@ -154,6 +154,7 @@ p{
  --green: #82997d;
  --notblack: #2e1f26;
  --notwhite: #ecf5e6;
+ --notblue: #3d4b8d;
 }
 .cards{
 	background-color: var(--green);
