@@ -302,7 +302,19 @@ article p{
 .footercontent{
 	display:flex;
 	flex-direction: row;
+	flex-wrap: nowrap;
+	
     
+}
+#footertitle{
+	flex:1;
+	display: flex;
+	align-items:flex-start;
+  justify-content:left;}
+#contacts{
+	display:flex;
+	flex-grow:3;
+	
 }
 /*
 saving this for now but i think im gonna try and flexbox this!
