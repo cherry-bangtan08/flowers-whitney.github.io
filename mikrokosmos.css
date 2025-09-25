@@ -344,7 +344,7 @@ font-size: 2rem;
   align-items: center;
   gap: 8px;
 }
-.contacts img{
+.contacts .contact-item img{
 	transform: scale(0.5);
 	max-height: 80px;
 	max-width: 80px;
