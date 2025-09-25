@@ -317,6 +317,7 @@ footer{
 	align-items:center;
 	background-image: url('docs/assets/flowerbunch.png');
 	background-position: top center;
+	background-repeat: no-repeat;
 }
 .footertitle{
 	flex:1;
