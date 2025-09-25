@@ -1,9 +1,4 @@
-/* Keep icon and text in a row for each contact item */
-.contact-item {
-	display: flex;
-	align-items: center;
-	gap: 8px;
-}
+
 
 body{
 	margin: 0;
