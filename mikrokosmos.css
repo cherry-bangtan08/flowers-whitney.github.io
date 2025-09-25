@@ -341,7 +341,6 @@ font-size: 2rem;
 }
 .contacts .contact-item {
   display: flex;
-  align-items: center;
   gap: 8px;
 }
 .contacts .contact-item img{
