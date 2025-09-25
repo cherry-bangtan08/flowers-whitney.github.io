@@ -336,11 +336,12 @@ font-size: 2rem;
 	text-align: right;
 	align-items: center;
 	gap: 10px;
-	padding-right: 45px;
+	padding-right: 20px;
 	
 }
 .contacts .contact-item {
   display: flex;
+  align-items: center;
   gap: 8px;
 }
 .contacts .contact-item img{
