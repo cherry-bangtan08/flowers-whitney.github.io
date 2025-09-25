@@ -335,7 +335,7 @@ font-size: 2rem;
 	flex:2;
 	justify-content: flex-end;
 	text-align: right;
-	align-items: center;
+	align-items: flex-end;
 	gap: 10px;
 	padding-right: 20px;
 	
@@ -344,7 +344,12 @@ font-size: 2rem;
   display: flex;
   align-items: center;
   gap: 8px;
+  width: 100%;
+  justify-content: flex-end;
 }
+ .contacts .contact-item span{
+	white-space:no-wrap;
+ }
 .contacts .contact-item img{
 	transform: scale(0.5);
 	max-height: 80px;
