@@ -328,7 +328,7 @@ font-size: 2rem;
 }
 
 .contacts{
-	flex-direction:row;
+	flex-direction:column;
 	display:flex;
 	flex-grow:3;
 	flex:2;
