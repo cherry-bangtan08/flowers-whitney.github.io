@@ -316,8 +316,7 @@ footer{
 	max-height: 180px;
 	align-items:center;
 	background-image: url('docs/assets/flowerbunch.png');
-	background-repeat: no-repeat;
-	background-position: right bottom
+	background-position: top center;
 }
 .footertitle{
 	flex:1;
@@ -340,7 +339,7 @@ font-size: 2rem;
 	text-align: right;
 	align-items: flex-end;
 	gap: 10px;
-	padding-right: 200px;
+	padding-right: 400px;
 	
 }
 .contacts .contact-item {
