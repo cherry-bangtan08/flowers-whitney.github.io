@@ -1,0 +1,1 @@
+I think lowkey this is done now, it was just a cool little webpage for a fictional florist brand that I designed the brand guide for and stuff. The only thiings that have much function are the sections that glow if you hover over them. I think overall the experience has been hard but really fun, it was a really nice way to put my skills into action.
