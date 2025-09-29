@@ -327,15 +327,12 @@ footer{
   justify-content:center;
   padding-left: 20px;
   gap: 20px;
-}
-.footertitle h3{
-font-size: 2rem;
-height: 130px;
-background-image: url(docs/assets/Asset\ 15.png);
+  background-image: url(docs/assets/Asset\ 15.png);
 background-repeat: no-repeat;
 background-position: top center;
-background-size: 60px auto; /* scales the image to 60px wide, auto height */
 }
+.footertitle h3{
+font-size: 2rem;}
 
 .contacts{
 	flex-direction:column;
