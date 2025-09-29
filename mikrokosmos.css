@@ -330,6 +330,8 @@ footer{
 }
 .footertitle h3{
 font-size: 2rem;
+background-image: url(docs/assets/Asset\ 15.png);
+background-repeat: no-repeat;
 }
 
 .contacts{
