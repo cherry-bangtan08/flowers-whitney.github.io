@@ -330,6 +330,7 @@ footer{
 }
 .footertitle h3{
 font-size: 2rem;
+height: 80px;
 background-image: url(docs/assets/Asset\ 15.png);
 background-repeat: no-repeat;
 background-position: top center;
