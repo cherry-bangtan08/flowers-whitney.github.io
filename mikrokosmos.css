@@ -334,6 +334,7 @@ height: 130px;
 background-image: url(docs/assets/Asset\ 15.png);
 background-repeat: no-repeat;
 background-position: top center;
+background-size: 60px auto; /* scales the image to 60px wide, auto height */
 }
 
 .contacts{
